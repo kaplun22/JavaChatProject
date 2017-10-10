@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JavaChatProject/JavaChatProject.iml" filepath="$PROJECT_DIR$/../JavaChatProject/JavaChatProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaChatProject/client/client.iml" filepath="$PROJECT_DIR$/../JavaChatProject/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaChatProject/network/network.iml" filepath="$PROJECT_DIR$/../JavaChatProject/network/network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaChatProject/server/server.iml" filepath="$PROJECT_DIR$/../JavaChatProject/server/server.iml" />
+    </modules>
+  </component>
+</project>
